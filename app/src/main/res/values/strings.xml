@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">حاجب الريلز</string>
+    <string name="service_description">يغلق قسم الريلز تلقائياً في إنستغرام وفيسبوك. للاستخدام الشخصي فقط ولا يجمع أي بيانات.</string>
+    <string name="title">حاجب الريلز</string>
+    <string name="status_on">الحالة: مفعّلة ✅</string>
+    <string name="status_off">الحالة: متوقفة ⛔</string>
+    <string name="hint_need_permission">الخدمة غير مفعّلة في إعدادات إمكانية الوصول. اضغط الزر أدناه وفعّلها.</string>
+    <string name="hint_paused">الخدمة مفعّلة في النظام لكن الحجب متوقف من المفتاح أدناه.</string>
+    <string name="hint_active">يتم حجب الريلز في إنستغرام وفيسبوك الآن.</string>
+    <string name="switch_label">تفعيل حجب الريلز</string>
+    <string name="btn_open_settings">فتح إعدادات إمكانية الوصول</string>
+    <string name="note_restricted">ملاحظة: في أندرويد 13+ قد يكون خيار الخدمة رمادياً لأن التطبيق مثبّت يدوياً. افتح: إعدادات ← التطبيقات ← حاجب الريلز ← ⋮ ← «السماح بالإعدادات المقيّدة» ثم فعّل الخدمة.</string>
+</resources>
