@@ -2,8 +2,6 @@ name: Build Android APK
 
 on:
   push:
-    branches: [ "main" ] # أو اسم الفرع الأساسي لديك مثل master
-  pull_request:
     branches: [ "main" ]
 
 jobs:
